@@ -17,9 +17,9 @@ import (
     "strconv"
 )
 const PORT string = "8085"
-const IPADDR string = "10.73.200.35"
+const IPADDR string = "106.12.97.46"
 const DOWNLOADURL string  = "wget http://"+ IPADDR +":"+ PORT + "/"
-const UPLOADFILEDIR string = "../upload/"
+const UPLOADFILEDIR string = "./upload/"
 const FILENAMEERR string = "Get file name error !"
 const COVERVALUE string = "noCover"
 const COVERKEY string = "cover"
