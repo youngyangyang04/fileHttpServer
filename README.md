@@ -25,8 +25,9 @@ fileHttpServer 是一个使用golang编写的简单文件存储系统，包括ge
 
 # 使用方式 
 
-`curl -T $fileName http://$ip:8085/upload/$fileName`
-$fileName 是要传输的文件 
-$ip是fileHttpServer部署所在机器的IP 
-8085是fileHttpServer的默认服务端口号
+`curl -T $fileName http://$ip:8085/upload/$fileName`   
+
+$fileName 是要传输的文件   
+$ip是fileHttpServer部署所在机器的IP   
+8085是fileHttpServer的默认服务端口号  
 
