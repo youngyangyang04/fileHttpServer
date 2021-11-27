@@ -1,7 +1,7 @@
 #########################################################################
 # File Name:    start.sh
-# Author:       sunxiuyang
-# mail:         sunxiuyang04@gmail.com
+# Author:        程序员Carl
+# 微信公众号:    代码随想录
 # Created Time: Tue 20 Aug 2019 05:09:02 PM CST
 #########################################################################
 #!/bin/bash
