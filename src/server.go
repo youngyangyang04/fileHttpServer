@@ -1,7 +1,7 @@
 /*************************************************************************
 > File Name:     main.go
-> Author:        sunxiuyang
-> Mail:          sunxiuyang@baidu.com
+> Author:        程序员Carl
+> 微信公众号:    代码随想录
 > Created Time:  Wed May 16 14:30:07 2018
 > Description:
  ************************************************************************/
@@ -17,7 +17,7 @@ import (
     "strconv"
 )
 const PORT string = "8085"
-const IPADDR string = "106.12.97.46"
+const IPADDR string = "服务器的外网IP"
 const DOWNLOADURL string  = "wget http://"+ IPADDR +":"+ PORT + "/"
 const UPLOADFILEDIR string = "./upload/"
 const FILENAMEERR string = "Get file name error !"

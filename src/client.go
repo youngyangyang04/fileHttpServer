@@ -1,7 +1,7 @@
 /*************************************************************************
 > File Name:     client.go
-> Author:        sunxiuyang
-> Mail:          sunxiuyang@baidu.com 
+> Author:        程序员Carl
+> 微信公众号:    代码随想录
 > Created Time:  Wed May 16 16:51:49 2018
 > Description:   
  ************************************************************************/
